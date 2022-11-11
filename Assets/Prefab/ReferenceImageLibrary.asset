@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4912446113666825083
+  m_GuidHigh: 14557432927048857517
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5003417809514227427
+      m_GuidHigh: 9161157140905072313
+    m_SerializedTextureGuid:
+      m_GuidLow: 239889253024507291
+      m_GuidHigh: 16861782005126488457
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: Optimized-spider-man-wallpaper-preview
+    m_Texture: {fileID: 2800000, guid: 2ff5a59b420103548961a367651501ea, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5750839165411946605
+      m_GuidHigh: 8946139751395438484
+    m_SerializedTextureGuid:
+      m_GuidLow: 14854109704812932939
+      m_GuidHigh: 18346679984111841384
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: earth
+    m_Texture: {fileID: 2800000, guid: 7a0eaf4b6613ce246870c19c3d809cfe, type: 3}
